@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my school project clled DevNest in collaboration with [Vencislav Marev](https://github.com/VenciMarev1)
+- 🔭 I’m currently working on my school ASP.NET MVC project in collaboration with [Vencislav Marev](https://github.com/VenciMarev1)
 - 🌱 I’m currently learning C# and Python
 - 😄 Pronouns: he/him
 
-<img align="left" alt="Bogo's Github Stats" src="https://github-readme-stats-theta-nine-47.vercel.app/api?username=BogoPetrov&theme=github_dark&show_icons=true&hide_border=true" />
+[![Bogo Petrov's GitHub stats](https://github-readme-stats.vercel.app/api?username=BogoPetrov&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
